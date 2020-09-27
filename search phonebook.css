@@ -1,0 +1,40 @@
+p {
+    color: white;
+    margin: 0.5em 0;
+font-family: 'David Libre', serif;
+margin: 10px;
+position: relative;
+top: 50px;
+left: 545px;
+font-size: 25px
+  }
+
+  * {
+    box-sizing: border-box;
+    border: 0 auto;
+    margin: 0;
+    background-color: #000;
+  }
+#myInput {
+color: white;
+border: 2px solid yellow;
+padding: 10px;
+margin: 10px;
+position: relative;
+left: 520px;
+top: 40px;
+}
+button {
+color: white;
+border: 2px yellow solid;
+margin: 2px;
+position: relative;
+left: 580px;
+top: 40px;
+padding: 10px;
+}
+h1{
+color: white;
+font-family: 'Changa', sans-serif;
+margin: 10px;
+}
